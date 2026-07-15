@@ -131,7 +131,7 @@ assignment1-dl.ipynb
 3. Install required libraries
 
 ```bash
-pip install tensorflow keras pandas numpy matplotlib scikit-learn
+pip install tensorflow kaggle pandas numpy matplotlib scikit-learn
 ```
 
 4. Run all notebook cells sequentially.
@@ -170,5 +170,5 @@ Through this project, the following concepts were implemented and analyzed:
 
 ## 👨‍💻 Author
 
-**Aditya**
+**ch JYOTHIRADHITYA**
 
