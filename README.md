@@ -170,5 +170,5 @@ Through this project, the following concepts were implemented and analyzed:
 
 ## 👨‍💻 Author
 
-**ch JYOTHIRADHITYA**
+**CH JYOTHIRADHITYA**
 
